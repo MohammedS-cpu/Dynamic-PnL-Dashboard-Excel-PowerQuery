@@ -1,0 +1,17 @@
+# Advanced Dynamic P&L Dashboard (Excel Power Query)
+
+Automated Profit & Loss (P&L) dashboard built in Excel using Power Query and Pivot automation.
+
+## Highlights
+- Consolidates Actual, Budget and Last Year (LY) data from folder-based files.
+- Automatically updates when new files are added to the shared folder.
+- Performs YTD and variance calculations (ACT vs BUD, ACT vs LY).
+- Interactive slicers for Region, Profit Center, Product and Month.
+- Refreshes with one click — ensuring accuracy and eliminating manual work.
+
+## Repository Contents
+- `screenshots/` — Dashboard images (view only)
+- `structure_example/` — Sample input file with headers (no real data)
+- `README.md` — this file
+
+> The full Excel model remains private. This repo demonstrates the project structure and automation logic.
