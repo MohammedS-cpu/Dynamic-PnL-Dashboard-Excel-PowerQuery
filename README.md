@@ -8,5 +8,5 @@ Automated P&amp;L dashboard in Excel using Power Query (YTD, variances, one-clic
 
 ![Data Source Example](Data%20Dump.png)
 
-![Shared Folder Example](Shared%20Folder.png)
+![Shared Folder Example](Shared_Folder.png)
 
