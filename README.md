@@ -4,7 +4,9 @@ Automated P&amp;L dashboard in Excel using Power Query (YTD, variances, one-clic
 
 ![Main Dashboard](P&L.png)
 
-![Pivot Summary](P&L- Pivot.png).
+![Pivot Summary](P&L-%20Pivot.png)
 
-![Data Source Example](Data Dump.png).
+![Data Source Example](Data%20Dump.png)
+
+![Shared Folder Example](Shared%20Folder.png)
 
